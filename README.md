@@ -1,1 +1,1 @@
-# WiDS_stock_price_prediction_using_RL
+# WiDS Stock Price Prediction using RL
